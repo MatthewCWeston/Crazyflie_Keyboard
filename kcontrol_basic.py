@@ -60,9 +60,9 @@ with SyncCrazyflie(URI) as scf:
                         case pygame.K_s: # Reverse
                             pitch = straferate
                         case pygame.K_a: # Left
-                            roll = -straferate
-                        case pygame.K_d: # Right
                             roll = straferate
+                        case pygame.K_d: # Right
+                            roll = -straferate
                         case pygame.K_l:
                             print("L pressed!") # Abort
                             run = False
