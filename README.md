@@ -3,7 +3,9 @@ A working (as of January 2024) keyboard control setup for a Crazyflie, in the mo
 
 # Setup
 
-This script works out of the box on the Crazyflie's associated virtual machine - pull the repo, run the script, and you're golden. It should also work on any computer with the requisite Python libraries.
+This script works out of the box on the Crazyflie's associated virtual machine - pull the repo, run the script, and you're golden. 
+
+It should also work on any computer with the requisite Python libraries.
 
 # Usage
 
