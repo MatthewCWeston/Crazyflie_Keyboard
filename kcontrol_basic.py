@@ -1,7 +1,3 @@
-# pygame_crazyflie has keyboard control, but the takeoff command doesn't work.
-# crazyflie_hover at least makes it hover.
-# Start by writing code that'll make it take off and land based on keyboard commands.
-
 import pygame # For handling input
 
 import cflib.crtp
