@@ -33,7 +33,7 @@ with SyncCrazyflie(URI) as scf:
             Hold WASD to strafe along the horizontal plane.
             Tap L to cut engine power and close the program.
             
-            Please note that precise, elegant movement requires a Flow deck. I cover that sort of thing in the other script, which should be added in a little while, if it isn't there already.
+            Please note that precise, elegant movement requires a Flow deck.
         ''')
         while run:
             
